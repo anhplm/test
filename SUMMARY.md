@@ -1,0 +1,14 @@
+# Table of contents
+
+* [Quản lý hóa đơn](README.md)
+* [Khởi tạo hệ thống](readme.md)
+* [Lấy dữ liệu hóa đơn đầu vào](lay-du-lieu-hoa-don-dau-vao.md)
+* [Một số tác vụ của Hóa đơn đầu vào](mot-so-tac-vu-cua-hoa-don-dau-vao/README.md)
+  * [Kiểm tra tính hợp lệ](mot-so-tac-vu-cua-hoa-don-dau-vao/kiem-tra-tinh-hop-le.md)
+  * [Xét duyệt hoá đơn](mot-so-tac-vu-cua-hoa-don-dau-vao/xet-duyet-hoa-don.md)
+  * [Duyệt tên đơn vị, địa chỉ để áp dụng cho các hoá đơn sau](mot-so-tac-vu-cua-hoa-don-dau-vao/duyet-ten-don-vi-dia-chi-de-ap-dung-cho-cac-hoa-don-sau.md)
+  * [Tải XML và PDF của hoá đơn](mot-so-tac-vu-cua-hoa-don-dau-vao/tai-xml-va-pdf-cua-hoa-don.md)
+  * [Hộp thư](mot-so-tac-vu-cua-hoa-don-dau-vao/hop-thu.md)
+* [Cách tạo chứng từ kế toán từ Hoá đơn đầu vào](cach-tao-chung-tu-ke-toan-tu-hoa-don-dau-vao.md)
+* [Bảng kê hoá đơn đầu vào](bang-ke-hoa-don-dau-vao.md)
+* [Giải pháp Hoá đơn đầu vào cho ERP](giai-phap-hoa-don-dau-vao-cho-erp.md)
