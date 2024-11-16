@@ -15,3 +15,4 @@
 * [Hóa đơn bán ra](hoa-don-ban-ra/README.md)
   * [Lấy hóa đơn](hoa-don-ban-ra/lay-hoa-don.md)
   * [Kiểm tra thông tin và xét duyệt hóa đơn](hoa-don-ban-ra/kiem-tra-thong-tin-va-xet-duyet-hoa-don.md)
+  * [Tải file hóa đơn](hoa-don-ban-ra/tai-file-hoa-don.md)

@@ -6,7 +6,7 @@
 
 **Các bước thực hiện**
 
-Chương trình tự động lấy hóa đơn từ hộp Mail ( hoặc từ Tổng cục thuế ) về tại màn hình Bán ra.&#x20;
+Chương trình tự động lấy hóa đơn từ hộp Mail ( hoặc từ Tổng cục thuế ) về tại màn hình Bán ra.
 
 Các hóa đơn được lấy về cập nhật sẽ có trạng thái **Chờ duyệt.**
 
