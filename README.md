@@ -24,7 +24,7 @@ layout:
 
 ## [Bảng kê hóa đơn đầu vào](bang-ke-hoa-don-dau-vao.md)
 
-## [Hóa đơn bán ra](./#hoa-don-ban-ra)
+## [Hóa đơn bán ra](hoa-don-ban-ra/)
 
 ## [Giải pháp hóa đơn đầu vào cho ERP](giai-phap-hoa-don-dau-vao-cho-erp.md)
 
