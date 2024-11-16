@@ -27,7 +27,7 @@ Các tùy chọn tải file gồm:
 
 **Bước 1:** Chọn một hoặc nhiều hoá đơn để tải -> chọn tùy chọn Tải file hoá đơn.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Tick chọn hóa đơn cần tải và nhấn tải file</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Tick chọn hóa đơn cần tải và nhấn tải file</p></figcaption></figure>
 
 **Bước 2:** Kiểm tra và mở file .zip được tải về
 

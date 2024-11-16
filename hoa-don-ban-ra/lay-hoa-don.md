@@ -10,10 +10,10 @@ Chương trình tự động lấy hóa đơn từ hộp Mail ( hoặc từ Tổ
 
 Các hóa đơn được lấy về cập nhật sẽ có trạng thái **Chờ duyệt.**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Trường hợp chương trình chưa kịp cập nhật tự động hoá đơn thì người dùng có thể lấy ngay hoá đơn về bằng cách nhấn **Lấy dữ liệu hoá đơn mới.**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

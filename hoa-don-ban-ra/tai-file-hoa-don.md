@@ -9,4 +9,4 @@ Check chọn Hóa đơn cần tải file -> Bấm vào biểu tượng Tải fil
 * _HTML từ TCT:_  Tải file PDF hóa đơn được kéo về trực tiếp TCT.
 * _XML từ TCT :_ Tải file XML hóa đơn được kéo về trực tiếp TCT.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>

@@ -28,6 +28,6 @@ Các hóa đơn được lấy về cập nhật sẽ có trạng thái **Chờ 
 
 Trường hợp chương trình chưa kịp cập nhật tự động hoá đơn thì người dùng có thể lấy ngay hoá đơn về bằng cách nhấn **Lấy dữ liệu hoá đơn mới.**
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
