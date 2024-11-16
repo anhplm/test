@@ -20,14 +20,14 @@ layout:
 
 ## Các bước thực hiện
 
-Chương trình tự động lấy hoá đơn từ hộp mail (hoặc từ Tổng cục thuế) về tại màn hình _**Mua vào**_.
+Chương trình tự động lấy hóa đơn từ hộp Mail ( hoặc từ Tổng cục thuế ) về tại màn hình Mua vào/ Bán ra.&#x20;
 
-Các hoá đơn mới được cập nhật sẽ có trạng thái **Lập nháp**.
+Các hóa đơn được lấy về cập nhật sẽ có trạng thái **Chờ duyệt.**
 
 <figure><img src=".gitbook/assets/74.png" alt=""><figcaption></figcaption></figure>
 
 Trường hợp chương trình chưa kịp cập nhật tự động hoá đơn thì người dùng có thể lấy ngay hoá đơn về bằng cách nhấn **Lấy dữ liệu hoá đơn mới.**
 
-![](<.gitbook/assets/0 (2).png>)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-![Thông báo sau khi Lấy hoá đơn mới](<.gitbook/assets/1 (4).png>)
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
