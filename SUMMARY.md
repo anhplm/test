@@ -14,3 +14,4 @@
 * [Giải pháp Hoá đơn đầu vào cho ERP](giai-phap-hoa-don-dau-vao-cho-erp.md)
 * [Hóa đơn bán ra](hoa-don-ban-ra/README.md)
   * [Lấy hóa đơn](hoa-don-ban-ra/lay-hoa-don.md)
+  * [Kiểm tra thông tin và xét duyệt hóa đơn](hoa-don-ban-ra/kiem-tra-thong-tin-va-xet-duyet-hoa-don.md)
