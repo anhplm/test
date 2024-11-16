@@ -12,3 +12,4 @@
 * [Cách tạo chứng từ kế toán từ Hoá đơn đầu vào](cach-tao-chung-tu-ke-toan-tu-hoa-don-dau-vao.md)
 * [Bảng kê hoá đơn đầu vào](bang-ke-hoa-don-dau-vao.md)
 * [Giải pháp Hoá đơn đầu vào cho ERP](giai-phap-hoa-don-dau-vao-cho-erp.md)
+* [Hóa đơn bán ra](hoa-don-ban-ra.md)
